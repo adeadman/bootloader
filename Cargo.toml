@@ -26,6 +26,7 @@ llvm-tools = "0.1"
 [features]
 default = []
 vga_320x200 = ["font8x8"]
+vesa_800x600 = ["font8x8"]
 recursive_page_table = []
 map_physical_memory = []
 
